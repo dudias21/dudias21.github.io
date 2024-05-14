@@ -58,7 +58,7 @@
     font-weight: bold;
 }
 
-#bio-image  {
+#bio-img  {
     width: 175px;
     height: 175px;
     border-radius: 50%; 
@@ -157,7 +157,7 @@
   #skills-section-title {
     border-top: 1px solid var(--border-color);
     padding-top: 20px;
-    margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 32px;
 }
 
